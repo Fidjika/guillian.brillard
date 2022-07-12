@@ -12,7 +12,7 @@ export default function Projects() {
             Mes Projets
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Voici certains de mes projets réalisé dans le cadre de ma formation à Epitech
+            Voici certains de mes projets réalisés dans le cadre de ma formation à Epitech
           </p>
         </div>
         <div className="flex flex-wrap -m-4">

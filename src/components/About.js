@@ -11,7 +11,7 @@ export default function About() {
             <br className="hidden lg:inline-block" />Je m'appelle Guillian Brillard
           </h1>
           <p className="mb-8 leading-relaxed">
-            J'ai découvert cet univers un peu par hasard et y ai pris gout, suite à mon inscription à la web@cademie je recherche une alternance front/back end 
+            J'ai découvert cet univers un peu par hasard et j'y ai pris goût, suite à mon inscription à la web@cademie je recherche une alternance front/back end 
           </p>
           <div className="flex justify-center">
             <a

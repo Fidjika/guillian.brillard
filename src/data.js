@@ -3,7 +3,7 @@ export const projects = [
       title: "SnapChat",
       subtitle: "React Native et Firebase",
       description:
-        "Reproduction d'un SnapChat like avec fonctionnalitées d'envoye et récéption de snaps",
+        "Reproduction d'un SnapChat like avec fonctionnalitées d'envoi et réception de snaps",
       image: "../assets/github.png",
       link: "https://github.com/EpitechWebAcademiePromo2023/W-JSC-502-LYN-2-1-snapchat-guillian.brillard",
     },
