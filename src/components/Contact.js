@@ -63,7 +63,7 @@ export default function Contact() {
             M'engager
           </h2>
           <p className="leading-relaxed mb-5">
-            Si vous êtes intéressez par mon profil, n'hésitez pas à me contacter !
+            Si vous êtes intéressés par mon profil, n'hésitez pas à me contacter !
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
