@@ -8,7 +8,7 @@ export default function About() {
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Bonjour et bienvenue,
-            <br className="hidden lg:inline-block" />Je m'appel Guillian Brillard
+            <br className="hidden lg:inline-block" />Je m'appelle Guillian Brillard
           </h1>
           <p className="mb-8 leading-relaxed">
             J'ai découvert cet univers un peu par hasard et y ai pris gout, suite à mon inscription à la web@cademie je recherche une alternance front/back end 
