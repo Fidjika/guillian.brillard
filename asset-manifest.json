@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/guillian.brillard/static/css/main.acac1894.css",
+    "main.js": "/guillian.brillard/static/js/main.c690a21b.js",
+    "static/js/787.1ed0c42c.chunk.js": "/guillian.brillard/static/js/787.1ed0c42c.chunk.js",
+    "static/media/coding.png": "/guillian.brillard/static/media/coding.7fd2cc88d54e5a7e91dd.png",
+    "index.html": "/guillian.brillard/index.html",
+    "main.acac1894.css.map": "/guillian.brillard/static/css/main.acac1894.css.map",
+    "main.c690a21b.js.map": "/guillian.brillard/static/js/main.c690a21b.js.map",
+    "787.1ed0c42c.chunk.js.map": "/guillian.brillard/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acac1894.css",
+    "static/js/main.c690a21b.js"
+  ]
+}
